@@ -5,10 +5,6 @@ Welcome to my GitHub! I specialize in **AI, Machine Learning, and Deep Learning*
 I enjoy working on **data-driven solutions, and open-source projects**.  
 
 ---
-### 🏆 GitHub Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" />
-
----
 
 ## 🚀 Technologies That I Know  
 <p align="left"> 
@@ -68,6 +64,9 @@ I enjoy working on **data-driven solutions, and open-source projects**.
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
+---
+### 🏆 GitHub Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-bg=true&no-frame=true&column=6" alt="GitHub Trophies" />
 
 
 ---
