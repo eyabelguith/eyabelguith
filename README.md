@@ -73,7 +73,7 @@ I enjoy working on **data-driven solutions, and open-source projects**.
 ---
 
 ## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyabelguith&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eyabelguith&layout=normal&theme=radical)
 
 ---
 
