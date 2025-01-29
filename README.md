@@ -2,7 +2,7 @@
 ### 🚀 Computer Engineer | Data science specialist  
 
 Welcome to my GitHub! I specialize in **AI, Machine Learning, and Deep Learning**.  
-I enjoy working on ** data-driven solutions, and open-source projects**.  
+I enjoy working on **data-driven solutions, and open-source projects**.  
 
 ---
 ### 🏆 GitHub Achievements
